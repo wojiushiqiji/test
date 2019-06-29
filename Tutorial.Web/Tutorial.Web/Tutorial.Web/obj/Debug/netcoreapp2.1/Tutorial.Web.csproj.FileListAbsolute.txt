@@ -1,0 +1,13 @@
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\bin\Debug\netcoreapp2.1\Tutorial.Web.deps.json
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\bin\Debug\netcoreapp2.1\Tutorial.Web.runtimeconfig.json
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\bin\Debug\netcoreapp2.1\Tutorial.Web.runtimeconfig.dev.json
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\bin\Debug\netcoreapp2.1\Tutorial.Web.dll
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\bin\Debug\netcoreapp2.1\Tutorial.Web.pdb
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\obj\Debug\netcoreapp2.1\Tutorial.Web.csproj.CoreCompileInputs.cache
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\obj\Debug\netcoreapp2.1\Tutorial.Web.RazorAssemblyInfo.cache
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\obj\Debug\netcoreapp2.1\Tutorial.Web.RazorAssemblyInfo.cs
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\obj\Debug\netcoreapp2.1\Tutorial.Web.AssemblyInfoInputs.cache
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\obj\Debug\netcoreapp2.1\Tutorial.Web.AssemblyInfo.cs
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\obj\Debug\netcoreapp2.1\Tutorial.Web.RazorTargetAssemblyInfo.cache
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\obj\Debug\netcoreapp2.1\Tutorial.Web.dll
+D:\Project\Learning\Tutorial.Web\Tutorial.Web\Tutorial.Web\obj\Debug\netcoreapp2.1\Tutorial.Web.pdb
